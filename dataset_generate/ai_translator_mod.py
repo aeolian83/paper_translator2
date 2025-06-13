@@ -14,7 +14,7 @@ from prompt_template_term import (
     evaluator_instruction,
 )
 
-load_dotenv(dotenv_path="/mnt/t7/dnn/llm_practicing/.env")
+load_dotenv()
 
 
 
